@@ -1,0 +1,6 @@
+D:\UserFiles\Vito\Documents\Faks\2. letnik\Zimski semester\Računalniška omrežja\Vaje\Vaja 3\Server\Server\Server\bin\Debug\Server.exe.config
+D:\UserFiles\Vito\Documents\Faks\2. letnik\Zimski semester\Računalniška omrežja\Vaje\Vaja 3\Server\Server\Server\bin\Debug\Server.exe
+D:\UserFiles\Vito\Documents\Faks\2. letnik\Zimski semester\Računalniška omrežja\Vaje\Vaja 3\Server\Server\Server\bin\Debug\Server.pdb
+D:\UserFiles\Vito\Documents\Faks\2. letnik\Zimski semester\Računalniška omrežja\Vaje\Vaja 3\Server\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\UserFiles\Vito\Documents\Faks\2. letnik\Zimski semester\Računalniška omrežja\Vaje\Vaja 3\Server\Server\Server\obj\Debug\Server.exe
+D:\UserFiles\Vito\Documents\Faks\2. letnik\Zimski semester\Računalniška omrežja\Vaje\Vaja 3\Server\Server\Server\obj\Debug\Server.pdb
